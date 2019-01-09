@@ -1,0 +1,9 @@
+Team Name: CGS
+Project: A web application which provides frequently used essential needs of students.
+This software has a chance of extension over any place with student community.
+
+Team Members:
+Shivam Tiwari(1601050)
+Chandan Kumar(1601015)
+Gyan Prakash Singh(1601024)
+We're 3rd year CSE Undergraduates at Indian Institute of Information Technology Guwahati.
