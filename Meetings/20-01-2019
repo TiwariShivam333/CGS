@@ -1,0 +1,20 @@
+What is done?
+  Working environment is done.
+  Website is running.
+  List of essential products that will be in software is done.
+  Learning django framework is in progress.
+  User stories:
+    Some of the questions answered by to be users-
+      What are the problems faced while purchasing daily essentials?.
+      Basic problems and concerns faced by other e-commerce websites doing similar things?.
+      Modes of transactions that must be included?.
+      Modes of registration?.
+      Product preferences?.
+      What extra products and services that are needed to be included?.
+  Can problem be compartimentalized--
+    We came to the conclusion that yes it can be done.    
+What is to be done?
+  Creating a proper model of the software.
+  How to divide the problem into set of smaller ones.
+  Making a proper product backlog with details.
+  A formal chart of sequence wise processes.
