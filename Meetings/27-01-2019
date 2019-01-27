@@ -1,31 +1,34 @@
----in today's meeting we planned about how to proceed to design our website according to use-cases described below--
+---In today's meeting we planned about how to proceed to design our website according to use-cases described below--
 
-this article below describes basically use-cases associated with our product "Online student Essentials"
+This article below describes basically use-cases associated with our product "Online student Essentials"
 
-it is defining interactions between actors and system. where "An actor might be a person, a company or organization, 
+A use-case is defining interactions between actors and system. where "An actor might be a person, a company or organization, 
 a computer program,or a computer system—hardware, software, or both."
 
-1.mainly there is interactions between five entities as follows--
+1.For our website, interactions are mainly between five entities as follows--
 
-1.1 visitor
-   it is person/system which has not logged in to our website.
+1.1 Visitor
+   Those who haven't registered the website and are there to traverse the products.
    
-1.2 user
-   it is person/system which has properly authorised and logged in to our website.
+1.2 User
+   Those who are regular users with proper authentication and authorization.
   
-1.3 admin
-   it is person/system which can control or has access to  whole website.
+1.3 Admin
+   Who can control or has access to the whole website.
   
-1.4 payment system
-   it is standard co-operative interface involved during transections.
+1.4 Payment system
+    All credentials required for a successful payment(online or offline).
    
-1.5 tracking and delivery system
-    it is post-order placement interface involved.
+1.5 Tracking and Delivery system
+    Post-order placement system.
+    
+1.6 Location system
+    Required for tracking system and to only show the products to users which are deliverable in the area.
     
    
-    we also discussed about problems faced in django tutorials specially during sample view design and its 
-    http responce inside inside an app module .
-    we did a discussion about dividing our task of project developement into simpler sub-problems that we will 
-    discuss in future meeting.
+    We also discussed about problems faced in django tutorials specially during sample view design and its 
+    HTTP response inside an app module .
+    We did a discussion about dividing our task of project developement into smaller sub-problems that we will 
+    discuss in our future meetings.
     
    
