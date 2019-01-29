@@ -1,0 +1,17 @@
+What we did?
+  Discuss the various actors and functionality of each of them.
+    There are three type of users as long as we have thought-
+    Visitor-A customer who can view items and can send a purchase request, but can't do without getting registered 
+    which will be a quick process.
+    User- A registered customer who can view item, add it to cart, can checkout by chosing any of the online
+    or offline payments, and can have track over his/her order.
+    Admin-The controller who can have access to everything, can add items, remove items, view items, update items 
+    details and numbers, can add payment modes, registration modes, can update delivery feasible locations, can receive
+    payments, track items, track delivery etc.
+    
+What we have to do in immediate week?
+  Make a basic running view.
+  Finalize the E-R diagram.
+  Started creating databases.
+  One final review and conclusion of requirement gathering.
+    
