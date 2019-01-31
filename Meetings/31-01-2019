@@ -1,0 +1,12 @@
+Points discussed:-
+1) Fitting our Online students Essentials Product system on Scenerio based Modeling.
+2) This Model consists of Developing a use case(More or less done), giving a shape to the developed use case through use case Diagram(done),Activity diagram(discussed today),Swimlane Diagram(next Meeting).
+3) Activity diagram is supplementary to the Use case diagram which consists of flow of interaction within different scenerio among actor and action being taken according to the decisions.
+4) As a result of discussion on Activity_diagram, we come up with a rough diagram realting the intractions of action along with decision.
+5) The activity diagram is also uploaded here in the name of activity_diagram.png
+
+NOTE: 1.The black circle in the diagram shows the initiating action.
+      2.The black circle incircled within bigger circle shows the final activity.
+      3.Alphabet enclosed within circles showing the connection with that alphabet written at somewhere else in the diagram.
+
+Topic for next discussion:Swim lane Diagram,django view interface(rough) etc..
