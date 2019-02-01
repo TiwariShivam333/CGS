@@ -1,0 +1,13 @@
+What we did?
+  After discussion on activity diagram yesterday and updating it, we discussed about swimlane diagram for our
+  daily essentials application which will probably be updated by next meeting.
+    In discussion of swimlane diagram we discussed about it and it's uses i.e. A swimlane diagram is also a type of 
+    flowchart that describes who does what in a process.Using the metaphor of lanes in a pool, a swimlane diagram 
+    provides clarity and accountability. It shows connections, communication and handoffs between these lanes, and 
+    it can serve to highlight waste, redundancy and inefficiency in a process.
+ We started building a rough view of application in Django.
+ 
+What we thought we do next?
+  Finish the swimlane diagram.
+  A rough website view.
+  Started building databases.
