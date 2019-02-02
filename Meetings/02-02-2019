@@ -1,0 +1,18 @@
+Basic overviews of today's group meeting are as follows---
+
+1.we discussed about making swimlane diagram and have completed a rough sketch of it.
+ The link for swimlane diagram is as given below-
+ 
+ 
+2.we also learned today about creating database using django framework and created some sample databases.
+
+3.we discussed also about creating basic views(login interface) and databases for "online student essentials" according 
+to E-R, activity, swimlane diagrams.
+
+4.our meeting concluded with discussion of scope of improvements in swimlane diagram and learning django for 
+preparation of complete database and login etc basic interfaces.
+
+future tasks(immediate next):
+
+1.completion of database creation
+2.completion of views and interfaces
