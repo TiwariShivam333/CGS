@@ -1,0 +1,10 @@
+Todays meeting sets in the closer of the Scenario based and onset of the Class model.
+The meeting details are as follows:
+1) A brief talk on requirement gathering which includes process of generating a list of requirements (functional, system, technical, etc.) from the various stakeholders (customers, users, vendors, IT staff, etc.) that will be used as the basis for the formal Requirements Definition.
+2) We moved on to second phase of Domain analysis i.e Class based modeling where we discussed the Data Object mainly and listed down the different type through which data objects can be easily tracked.
+    1. An External Entity(Anything that produces and consumes information)
+       -external company,visitor,user,Delivery system,transaction handler
+    2. Things:Product,Profile,Cart
+    3. An Occurance: place Order,Add to kart
+    4. An event : replace,return,add item,remove item,locate item
+    5. A Role
