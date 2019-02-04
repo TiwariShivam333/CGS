@@ -1,0 +1,16 @@
+In continuation of the Previous discussion on Data Object and Class model,
+Todays discussion consists of following issues:
+
+1) Class Diagram which contains classes as specific box(see CGS/Class Diagram Example-CGS.pdf) along with the class name, their 
+   attributes,and functions associated with the class. We will be using the Exactly same classes for our coding purposes and for 
+   drawing Entity-Relationship Diagrams while making Databases for our complete system.
+   
+2) Collaboration diagrams which is also called as communication Diagrams are used to show how objects interact to perform the 
+   behavior of a particular use case, or a part of a use case. Along with Usecase and Activity diagrams, collaborations are used by 
+   designers to define and clarify the roles of the objects that perform a particular flow of events of a use case.
+   
+3) collaboration Diagram can be found at CGS/Collaboration diagram.png
+
+4) A little bit modification in Usecase Diagram has also been considered through this Discussion.
+
+5) coming Discussion may hold issues on Flow Oriented Modeling like DFD etc.
