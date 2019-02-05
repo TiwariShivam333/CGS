@@ -1,0 +1,14 @@
+In our recent discussions we discuss about more about use-cases(adding some more actors),
+  build the class diagram feasible to our application with all attributes and operations,
+  collaboration diagram which resembles a flowchart that portrays the roles, functionality 
+  and behavior of individual objects as well as the overall operation of the system in real time.
+  
+  
+In today's part we discussed about data flow diagram which is also a flow chart i.e. a way of 
+  representing flow of data of a process or a system (usually an information system).
+  The DFD also provides information about the outputs and inputs of each entity and the process itself.
+  A data flow diagram has no control flow, there are no decision rules and no loops. 
+  Specific operations based on the data can be represented by a flowchart.
+  We created a rough data flow diagram which will be uploaded by few next meetings.
+  
+In future discussions we plan to discuss E-R diagram, and Django concerns.  
