@@ -1,0 +1,22 @@
+Today we focused on following points in our group meeting---
+
+1.we discussed about state diagram for our software.Definition for state diagram is given below as follow-
+
+A state diagram is used to represent the condition of the system or part of the system
+at finite instances of time. It’s a behavioral diagram and it represents the behavior using
+finite state transitions. State diagrams are also referred to as State machines and State-chart
+Diagrams. These terms are often used interchangeably. So simply, a state diagram is used to model
+the dynamic behavior of a class in response to time and changing external stimuli.
+
+main advantage we want to extract from it is seamless design of basic views.
+
+2.we discussed about designing basic user interface for our software product without focusing much
+  on database part or dataflow.it includes login,signup,and product view etc.
+  
+  Future works- Design state-diagram and after that we may become able to-
+  
+                1.designing basic user-interfaces
+                
+                2.designing Data flow diagram as per need
+               
+   
