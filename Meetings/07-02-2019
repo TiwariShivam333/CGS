@@ -1,0 +1,27 @@
+Today's discussion incorporated the Developing of Data flow Diagram and its level wise analysis which is implementable in our Online 
+Student Essentials.
+
+The points are as follows:
+
+1)DFD graphically representing the functions, or processes, which capture, manipulate, store, and distribute data between a system 
+  and its environment and between components of a system. The visual representation makes it a good communication tool between User
+  and System designer(definition).
+  
+2)There are FOur symbols which describes the DFD
+    1.Process(logically a function): Every process has a name that identifies the function it performs. 
+    2.Data Store: A data store or data repository is used in a data-flow diagram to represent a situation when the system must retain
+      data because one or more processes need to use the stored data in a later time. We can either or write the data from the Data store
+    3.External Entity: An external entity is a person, department, outside organization, or other information system that provides data
+      to the system or receives outputs from the system.Generally a rectangle represents External Entity.They do not process the data.
+      They either supply data or receive data.
+    4.Data Flow: A data-flow is a path for data to move from one part of the information system to another.The Data flow is either 
+      represented by the one-way arrow or two-way arrow.
+      
+3) We considered the rules that need to be taken care(avoided) of,some have been mentioned below:
+    1.condition of Black Hole: when the data is only inputed into the process but no output is given out.
+    2.condition of Miracles: A processing step may have output flows but no input flows.
+    3.condition of Gray holes: A processing step may have outputs that are greater than the sum of its inputs.
+    
+4) Applying the gathered knowledge mentioned above, we extracted our entities,process and data store from our system class diagram
+    trying to give well defined shape of the DFD.
+Hope the DFD may be fully completed by the next meeting as levelling in DFD is yet an issue of discussion.
