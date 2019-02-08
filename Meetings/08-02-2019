@@ -1,0 +1,20 @@
+Today's meeting involve discussion over the user interface so to start the development.
+    Unfortunately DFD didn't get completed by today but certainly will get completely by tommorow's evening as it's in the 
+    last phase of it's creation.
+    
+    Well in today's meeting we discussed the categories in terms of modules and their places in the user interface.
+    As we are building daily student essentials, the first level of categories will contain the different organizations/places
+    whose products we'll make available  on our application which as of now are New, Old stationary products, household and 
+    others needs, then under the second level of categories it'll contain the categories of products like in new stationary 
+    products we'll have daily school things like Compass box, pens, pencils, chalk/duster, crafts materials, glue, notebooks 
+    text books etc.
+    In the old stationary category it'll mainly contain old books, and stationary product which are of no use of some student 
+    and are still usable like blank papers.
+    In the household category washroom products, study tables, kettle, bottles, speakers, umbrellas, basic utensils, bags etc. 
+    can be included.
+    And in other needs will include new/old cycles and other products on user's recommendation.
+    
+    We'll complete the data flow diagram, and start implementing the user interface.
+    
+    In next meeting we'll discuss django problems and further on UI
+    In other immediate meetings we'll discuss creating and connecting databases of the application.
