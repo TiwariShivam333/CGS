@@ -1,0 +1,14 @@
+crux points of today's group meeting are-
+
+1.modular approch to design basic user interface of our product using django
+
+2.handling of views using django
+
+3.redirecting link provision in view pages to go forward or backward as intended
+
+4.discussion on django and its supportive framework for web interface design
+
+5.using wordpress or zumla as content management system intead of writing whole html,css code etc for view design
+
+future work- completion of basic views using django and cms ( wordpress or zumla )
+             completion of advanced dataflow diagram and state diagram
