@@ -1,0 +1,11 @@
+Today's meeting mostly covers the database design disscussion.
+After having collected requirement gatherings and user stories, now this is the time when we are trying to fabricate the notions into the tabular form
+and establish a proper relationship among different entities.
+In this procession the first step was to derive the entities from the gathered material and next was to figure out their attribute which also 
+keeps a track of the primary and foreign key assigned to different attributes of a particular entity.
+Then we look into the cardinality of the entities while framing relationships.
+We reached at a conclusion that some relationship also need to be have some attribute in order clearify that relations.
+The respective drawn diagram have been uploaded at CGS/erdplus-diagram.
+We have used erdplus as platform for drawing this diagram.
+For furthur edits, the link to erdplus is also given below.
+https://erdplus.com/#/edit-diagram/822130
