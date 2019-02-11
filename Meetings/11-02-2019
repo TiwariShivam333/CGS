@@ -1,0 +1,8 @@
+With the completion of use-case, class and collaboration diagram, today's meeting comprises discussion over
+Data flow diagram, State diagram and Entity-relationship diagram.
+
+A discussed a data flow diagram (DFD ) is a way of representing a flow of a data of a process or a system,
+It also provides information about the outputs and inputs of each entity and the process itself, a data flow
+diagram has no control flow, there are no decision rules and no loops. 
+Specific operations based on the data can be represented by a flowchart such that for each data flow, at least
+one of the endpoints(source and/or destination) must exist in a process.
