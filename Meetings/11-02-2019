@@ -6,3 +6,21 @@ It also provides information about the outputs and inputs of each entity and the
 diagram has no control flow, there are no decision rules and no loops. 
 Specific operations based on the data can be represented by a flowchart such that for each data flow, at least
 one of the endpoints(source and/or destination) must exist in a process.
+A level 0 and 1 DFD is already uploaded which comprises the flow of data between login system and level 1 flow 
+of data by user, admin and visitor by their corresponding functionalities, level 2 functionalities of user and
+admin and other functions like payment system will uploaded shortly.
+
+An entity–relationship model (ER model) describes interrelated things of interest in a specific domain of 
+knowledge. A basic ER model is composed of entity types (which classify the things of interest) and specifies
+relationships that can exist between entities (instances of those entity types).
+It's commonly formed to represent things that a business needs to remember in order to perform business processes.
+Consequently, the ER model becomes an abstract data model, that defines a data or information structure which can
+be implemented in a database, typically a relational database.
+It has also been uploaded.
+
+State diagrams are used to give an abstract description of the behavior of a system. This behavior is analyzed 
+and represented as a series of events that can occur in one or more possible states. Hereby each diagram usually
+represents objects of a single class and track the different states of its objects through the system.
+
+In the next meeting more details of state diagram will be discussed and it'll be uploaded, also we'll start 
+discussion on designing databases and linking them with frontend from next meetings onward.
