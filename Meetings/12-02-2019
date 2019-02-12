@@ -1,0 +1,17 @@
+in today's meeting we discussed about state diagram construction and and its use to design our web-interface.
+
+A state diagram is a diagram used in computer science to describe the behavior of a system considering
+all the possible states of an object when an event occurs. This behavior is represented and analyzed in
+a series of events that occur in one or more possible states. Each diagram represents objects and tracks
+the various states of these objects throughout the system.  ( Source - https://www.techopedia.com/definition/16446/state-diagram )
+
+construction of state diagram is completed in group meeting.state diagram as a pdf has been uploaded under
+master branch.
+
+we also discussed about intergrating cms with django to build our view interfaces(basic interfaces without data flow consideration).
+
+future works-1.use of dataflow diagram to design view interfaces
+             2.use of state diagram to help in designing interfaces
+             3.use of E-R diagram and class diagram to design database
+
+
