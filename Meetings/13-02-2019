@@ -1,0 +1,8 @@
+Today's discussion kept a note on the UI design for our webapp.
+-We finalize  to make use of Wordpress as our cms and in few meeting we will try to merge it with django python frame work.
+-For now we use the Xampp server to test the hello world page of wordpress and may be using the same for adding furthur content to 
+ our webapp.
+ -Once we corelate it with django...we will manipulate all the automatically generated code for contents into python (django).
+ - We are looking for the libraries to be used as much as possible ...but the need for the same will be felt at the time of implementation.
+ 
+ Next meeting: we may be able able to formulate the Visible User Interface.
