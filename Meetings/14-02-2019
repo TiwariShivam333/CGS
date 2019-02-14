@@ -1,0 +1,9 @@
+As discussed in previous meeting about the UI Interface and merging it with Django Framework,
+
+Today's was extension of the previous one first we are thinking of designing the interface and test it using 
+Xammp server only using it's database, later we'll merge it in Django we also try building the login 
+and signup page interface(not functional yet) with availability of quick login and signup(google/facebook
+and other social ways). 
+
+Next meetings will involve making the interfaces functional and discussion over ajax to make our forms 
+interactive.
