@@ -1,0 +1,7 @@
+crux points of the meeting are-
+
+1.working on design of basic views 
+2.integration of cms with django
+3.discussion about using ajax to make forms more interactive with out need of refresh
+4.discussion about class design and data abstraction
+5.relevance of other diagrams like sequence diagram etc as per need
