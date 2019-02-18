@@ -1,1 +1,5 @@
-
+Today's meeting consisted of following bullet points:
+1) Changes in E-R diagram to indicate the proper relationship of different entities
+    like giving a proper name to the relation defined between each entities.
+2) On the basis of foreign keys the relationship attributes are also taken into considerations.
+3) Converting the exact E-R diagram into the schema-diagram to conveniently reach the table/schema formation of the database 
