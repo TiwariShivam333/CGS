@@ -1,0 +1,7 @@
+Today following points were discussed in group meeting-
+
+1.how to make collaboration diagram with modules
+2.how to make communication (intramodular as well as intermodule) seamless
+3.design considerations regarding views design
+4.state diagram interpretation and its use in design of our system
+5.need of ajax for form design and its integration with cms and django
