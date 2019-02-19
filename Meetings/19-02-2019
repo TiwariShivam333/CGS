@@ -1,1 +1,16 @@
+Some points that were left of previous meeting-
+Level 2 and Level 3 Data flow diagram was uploaded yesterday, Level 2 shows the flow of data in modules of
+Level 1 i.e exploring some modules of Level 1 which have data flow involved to some deeper extent.
+Level 3 explore module of module that is it represents how data flow in a layer below Level 2.
+Today's discussion involved-
 
+Discussion of the interface and its development over Wordpress and Xampp to be futher integrated with MVC 
+framework Django.
+Design and architecture diagram-The software must be placed into context.
+The design should define the external entities (other systems, devices, people) that the software interacts with 
+and the nature of the interaction.
+A set of architectural archetypes should be identified.
+An archetype is an abstraction (similar to a class) that represents one element of system behavior.
+The designer specifies the structure of the system by defining and refining software components that implement each archetype.
+
+Next meetings will involve detailed discussion of Collaboration diagram with modules and User interface.
