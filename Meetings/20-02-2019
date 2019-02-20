@@ -1,0 +1,24 @@
+key points of today's group meeting-
+
+
+1.design diagram construction relevance
+
+2.importance of class diagram for design diagram 
+
+3.Continuation of design of view interfaces using django and integrating wordpress as cms platform
+
+4.adaptation of dynamic changes in website design
+
+5.discussion on making collaboration diagram with consideration of modules
+
+6.discussion on single-minded interface design
+
+7.discussion on reducing coupling(dependancy) between interfaces
+
+8.discussion on deployment diagram relevance
+
+future aspects-
+                1.architecture diagram preparation
+                2.deployment diagram preparation
+                3.integration of ajax in forms for seamless functionality
+                4.decision on architectural tools and platform requirement
