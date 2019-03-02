@@ -1,0 +1,18 @@
+What we discussed today?
+  We are in the last phase of preprocessing of our software.
+  We have basically two diagrams, analysis diagram and design diagram, Analysis diagram deals more closely 
+  to the Elicitation phase of our unified model where we analyse our requirements building use case diagrams,
+  activity diagrams, class diagrams with just the attributes, then the design diagram falls basically into
+  elaboration phase where we advance our planning and do the modelling i.e. create a solution model for our
+  problem, where the diagrams of analysis are refined like class diagram is advanced to contain attributes 
+  with their type and operations are included. So for we have made almost all the analysis and design diagrams.
+  We discussed today to make the last design diagram i.e. the refined collaboration diagram which contain the 
+  collaboration details of classes after dividing it into modules.
+  We have to make architecture design by monday.
+  
+What we have to do next?  
+  From the next meetings onward we'll move our discussion towards designing the User interface and will be 
+  completing a basic UI by monday.
+  
+  
+  
