@@ -1,0 +1,21 @@
+Today's meeting mostly elapsed on the discussion related to Interface:
+Following principles are disscussed on the basis of our Online Student Essential requirement.
+
+User familiarity
+The interface should use terms and concepts which are drawn from the experience of the people who will make most use of the system.
+
+Consistency
+The interface should be consistent in that, wherever possible, comparable operations should be activated in the same way.
+
+Minimal surprise
+Users should never be surprised by the behaviour of a system.
+
+Recoverability
+The interface should include mechanisms to allow users to recover from errors.
+
+User guidance
+The interface should provide meaningful feedback when errors occur and provide context-sensitive user help facilities.
+
+User diversity
+The interface should provide appropriate interaction facilities for different types of system user.
+
