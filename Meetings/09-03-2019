@@ -1,0 +1,9 @@
+Today we discussed on following in group meeeting-
+
+1.use of standard templates to design user interface
+
+2.problems in integrating those templates in django framework
+
+3.how django implicitaly implements MVC framework using MTV(model-template-view)framework
+
+future task-solving problems and interprating errors in djando in integration of standard templates for user interface
