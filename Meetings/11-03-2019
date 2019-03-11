@@ -1,0 +1,10 @@
+Today's meeting dealt with the Modification in design and a placements of icons in User Interface.
+1) The login/signup for our system has been built with SSO option(deactivated right now)
+2) The Item/product addition file into the system has been attached.
+3) The Django framework Library and Template addition has been learnt.
+4) Integration of Template with CSS,JavaScript,Bootstrap has also been done.
+5) Track order and payment has not been approved as the items have not been connected with database yet.
+
+Next....
+1) Swimlane Diagram to create flow of UI
+2) Working on Database and hosting of websites 
