@@ -1,0 +1,12 @@
+Incorporation of MVC Framework and UI interface
+  Yesterday the problem of incorporation get solved which was not accepting CSS applied over the
+  interface.
+  Use case has already been implemented.
+  
+  We discussed to start implementing functionalities.
+  To start with atleast make the pages of everything without any working.
+  Then start designing database to start implementing the functionalities.
+  Implement the build in Django to have a single executable file over which
+  unit test cases can be checked.
+  Hosting the website on AWS so to access it from any where and for proper
+  evaluation.
