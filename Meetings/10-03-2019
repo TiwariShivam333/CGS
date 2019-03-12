@@ -1,1 +1,25 @@
+From yesterday's meeting
 
+Differences between review, audit,testing-
+  Review is a formal assessment of something with the intention of instituting change if necessary.
+  
+  Audit is an official inspection of an organization's accounts, typically by an independent body.
+  
+  Testing is to take measures to check the quality, performance, or reliability of (something), 
+  especially before putting it into use or practice.
+  
+Unit test cases and build in Django
+  Unit testing is level of testing where smallest part of individual unit / component (called unit)
+  is tested to determine if they are fit for use. 
+  The unit test cases writing and execution is done by the developer(not the tester) to make sure that 
+  individual units are working as expected.
+  
+  Build is creating an executable for unit testing.
+  
+  
+Today
+  We analyse and edit some templates try to implement all functionalities(showable) of Use Case.
+  Showing flow of using swimlane diagram.
+  
+  Try to incorporate HTML templates with Django but CSSs files create issues which we'll try to solve 
+  by/in next meeting.
