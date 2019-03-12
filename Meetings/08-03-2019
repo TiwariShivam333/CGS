@@ -1,0 +1,7 @@
+Today's meeting covers the following point:
+1) How SQA can be met in our system?
+   - different quality measurement technique
+   - Evaluating the accuracy of model
+2) How reviewing will be done, the audit needed to be implemented during developing the software?
+3)Differences between review, audit,testing etc
+4) Unit test cases and build in Django
