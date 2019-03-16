@@ -1,0 +1,13 @@
+today we focus of our discussion was on following points:
+
+1.problems faced in importing template css,javascript files within django framework
+
+2.how to design interfaces keeping simplicity intact
+
+3.coding standards to make understandable code of one developer to another
+
+4.unit test case design as well as standards
+
+future tasks-
+             1.solving issue created in issue tracker
+             2.starting design of database 
