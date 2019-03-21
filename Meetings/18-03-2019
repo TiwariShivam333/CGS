@@ -1,0 +1,23 @@
+
+Today's meeting invlove discussion over three basic functionalities of our web app
+
+We basically thought of developing the product area first since it's the lengthiest part 
+of our project.
+In order to achieve that we have already-
+
+
+1.Build the product view- which cosnsists of linking the page with home page, then including 
+features in it like-Description,quantity, Specifications, Reviews, and most importantly the
+view of the product involving showing it from various perspectives, with also showing the 
+related products to at the bottom.
+
+
+2.The login and signup the pages are ready with the view with single sign in faciltiy with 
+google and facebook.
+
+
+3.Added the Add to Cart page with products list and total amount.
+
+
+This are not fully functional without the database so once the databse is made it'll get fully 
+functional.
