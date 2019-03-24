@@ -1,1 +1,5 @@
-Today's meeting 
+Today's meeting dealt with following topics:
+1) Addition of some new features like cart
+2) Doing Css/javaScripts seeting for this system
+3) Try for automatic updation of cart item in case of sell and insert.
+4) Integrating the system with Django MVC
