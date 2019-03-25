@@ -1,1 +1,12 @@
+Today we discussed in group meeting on following topics-
 
+1.creation of build tool
+
+for this we installed pybuilder and create build of our whole project by creating setup.py file
+it was used for resolving system dependencies.
+
+2.creation of html 5 compliance based html files
+
+for this we checked for our core html files with w3 html 5 platform and removed errors
+
+3.we also discussed on code coverage tool implementation and its use to find code coverage of our project
