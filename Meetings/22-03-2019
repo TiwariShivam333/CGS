@@ -1,0 +1,25 @@
+
+Today's meeting mainly consist of discussion over the databases-
+
+1.Manual entry in the database as of now so for a simple working
+model of login atleast.
+
+2.What databases will be required for creation of product module 
+as it's the biggest module of the project.
+
+3.which module we have to moveon next.
+
+
+other than this we discussed over build-
+
+Since we are doing our project in python(django) we'll use pybuilder-
+
+  It targets the building and management of software with a strong focus on Python.
+  
+  Automatic execution of unit and integration tests on every build.
+  
+  Automatic analysis of the code coverage.
+  
+  Automatic execution and result interpretation of analysis tools, such as flake8.
+  
+  Automatic generation of distutils script setup.py.
