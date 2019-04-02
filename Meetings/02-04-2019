@@ -1,0 +1,15 @@
+We discussed following points today in group meeting-
+
+1.Need of Continuous Build integration
+
+It is useful when many developers work on a single software and they are not able to finish their respective jobs simultaneously.
+in that scenario Continuous build integration allowes developers finished their jobs to Continue testing without waiting for others.
+
+Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several 
+times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early. 
+
+2.Continuous Build integration implementation problems
+
+3.Typesof tests required for our software among unit test,integration test,validation test,system test
+
+4.Creation of model to write unit tests for models as well as creating continuous build integration
