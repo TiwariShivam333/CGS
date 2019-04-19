@@ -1,0 +1,17 @@
+
+We discussed Continuous integration framework in detail- It is useful when many 
+developers work on a single software and they are not able to finish their 
+respective jobs simultaneously.
+In that scenario Continuous build integration allowes developers finished their
+jobs to Continue testing without waiting for others.
+
+
+Writing test cases for loops, conditional statements
+
+1. We had used conditional statements for register and login as of now.
+For validation of forms in both the cases and
+Checking the constraints in case of registering.
+
+2.How to write test cases for their assertion.
+
+3. What all it'll involve.
