@@ -1,0 +1,15 @@
+
+After writing unit test cases for two modules we decided to write inegration test case over 
+them.
+
+Integration testing exercises two or more parts of an application at once, including the 
+interactions between the parts, to determine if they function as intended. This type of
+testing identifies defects in the interfaces between disparate parts of a codebase as they
+invoke each other and pass data between themselves.
+
+Points
+1. Use of selenium for integration testing.
+
+2. How to use it.
+
+3. How to integrate the unit test cases of two modules.
