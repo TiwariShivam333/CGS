@@ -1,0 +1,8 @@
+launchpadlib 1.10.6 requires testresources, which is not installed.
+pybuilder 0.11.17 has requirement setuptools~=39.0.0, but you'll have setuptools 41.0.0 which is incompatible.
+awscli 1.16.30 has requInstalling collected packages: coverage
+  Found existing installation: coverageCould not install packages due to an EnvironmentError: [Errno 13] Permission denied: '/usr/lib/python3.6/site-packages'
+Consider using the `--user` option or check the permissions.
+
+You are using pip version 10.0.1, however version 19.0.3 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.

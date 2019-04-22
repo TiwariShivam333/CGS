@@ -1,0 +1,13 @@
+launchpadlib 1.10.6 requires testresources, which is not installed.
+pybuilder 0.11.17 has requirement setuptools~=39.0.0, but you'll have setuptools 41.0.0 which is incompatible.
+awscli 1.16.30 has requirement PyYAML<=3.13,>=3.10, but you'll have pyyaml 5.1 which is incompatible.
+Could not install packages due to an EnvironmentError: [Errno 13] Permission denied: '/usr/lib/python3.6/site-packages'
+Consider using the `--user` option or check the permissions.
+
+You are using pip version 10.0.1, however version 19.0.3 is available.
+You should consider upgrading via the 'pip install --upgrade pip' command.
+ bdist_wheel for pypandoc: started
+  Running setup.py bdist_wheel for pypandoc: finished with status 'done'
+  Stored in directory: /home/gyan/.cache/pip/wheels/45/52/0c/02a859cf8ad74962f6d6399d5b8b186472895f66bb5bb23cdd
+Successfully built pypandoc
+Installing collected packages: pypandoc

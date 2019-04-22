@@ -1,0 +1,2 @@
+"id", "password", "last_login", "is_superuser", "username", "first_name", "email", "is_staff", "is_active", "date_joined", "last_name"
+"1", "pbkdf2_sha256$100000$Ex5JWOKJLznX$4Yp08+q+yYGpcgljl8EDO1/TvWSKdE+0kJU2CWd9650=", "2019-04-16 18:50:12.934625", "1", "tiwari", "", "shivam21ballia@gmail.com", "1", "1", "2019-04-16 18:04:28.862098", ""
